@@ -11,7 +11,9 @@
 <a href="https://www.instagram.com/galhardi.diego/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="galhardi.diego" height="30" width="40" /></a>
 </p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegowsu&show_icons=true&locale=en&layout=compact" alt="diegowsu" /></p>
+-->
 
 <!--
 **diegowsu/diegowsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
