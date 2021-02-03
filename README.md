@@ -3,11 +3,11 @@
 - 🔭 I’m currently working as Software Development Engineer
 - 🌱 I’m currently learning Microservices, AWS Cloud, Serverless 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> </p>
 
 <p align="center">
+	<img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> </p>
 	<a href="https://github.com/diegowsu"><img src="https://img.shields.io/github/followers/diegowsu.svg?label=GitHub&style=flat-square&logo=github" alt="GitHub"></a>
-	<a href="https://www.instagram.com/galhardi.diego"><img src="https://img.shields.io/instagram/follow/galhardi.diego?label=Twitter&style=flat-square&logo=instagram" alt="Twitter"></a>
+	<a href="https://www.instagram.com/galhardi.diego"><img src="https://img.shields.io/instagram/follow/galhardi.diego?label=Instagram&style=flat-square&logo=instagram" alt="Instagram"></a>
 	<a href="https://www.linkedin.com/in/dgalhardi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
