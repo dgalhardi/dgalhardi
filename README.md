@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegowsu" alt="diegowsu" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegowsu&show_icons=true&locale=en&layout=compact" alt="diegowsu" /></p>
 
 <!--
 **diegowsu/diegowsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
