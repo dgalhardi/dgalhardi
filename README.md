@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Microservices, AWS Cloud, Serverless 
 
 
-<p align="center">
+<p align="left">
 	<img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> 
 	<a href="https://github.com/diegowsu"><img src="https://img.shields.io/github/followers/diegowsu.svg?label=GitHub&style=flat-square&logo=github" alt="GitHub"></a>
 	<a href="https://www.instagram.com/galhardi.diego"><img src="https://img.shields.io/instagram/follow/galhardi.diego?label=Instagram&style=flat-square&logo=instagram" alt="Instagram"></a>
