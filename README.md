@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Diego Galhardi
+
+🔭 I’m currently working as Software Development Engineer
+🌱 I’m currently learning Microservices, AWS Cloud,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> </p>
 
