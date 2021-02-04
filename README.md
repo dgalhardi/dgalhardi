@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Diego Galhardi
 
 - 🔭 I’m currently working as Software Development Engineer
-- 🌱 I’m currently learning Microservices, AWS Cloud, Serverless 
+- :mortar_board:  I’m currently learning Microservices, AWS Lambda, DynamoDB, Serverless / Orthogonal Architecture
 
 
 <p align="left">
@@ -9,6 +9,24 @@
 	<a href="https://github.com/diegowsu"><img src="https://img.shields.io/github/followers/diegowsu.svg?label=GitHub&style=flat-square&logo=github" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/dgalhardi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
+
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=diegowsu&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=diegowsu&count_private=true&show_icons=true&theme=tokyonight" />
+</a>	
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight" />
+</a>
+	<a>
+   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
+</a>
+
+	
+</div>
+
+  
+
 
 
 <!--
