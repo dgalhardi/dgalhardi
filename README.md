@@ -10,13 +10,12 @@
 	<a href="https://www.linkedin.com/in/dgalhardi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true" />
 </a>	
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight&langs_count=10&layout=compact">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight&langs_count=10&layout=compact" />
 </a>
 	<a>
    <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
