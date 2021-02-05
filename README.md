@@ -13,10 +13,6 @@
     </a>
 </p>
 
-<p align="left">
-	<img src="https://img.shields.io/badge/SUPPORTED%20BY-JAVA%20DEVELOPER-red.svg?colorA=FFA500&colorB=FF8C00&style=for-the-badge""/>
-</p>
-
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs">
   <img  align="justified" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs" />
