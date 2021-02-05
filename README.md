@@ -12,8 +12,8 @@
 
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=diegowsu&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=diegowsu&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true" />
 </a>	
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight" />
