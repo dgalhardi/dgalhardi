@@ -14,10 +14,8 @@
 </p>
 
 <p align="left">
-<a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-	</p>
+	<img src="https://img.shields.io/badge/SUPPORTED%20BY-JAVA%20DEVELOPER-red.svg?colorA=FFA500&colorB=FF8C00&style=for-the-badge""/>
+</p>
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs">
