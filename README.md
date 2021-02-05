@@ -14,11 +14,11 @@
 <a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true" />
 </a>	
+<a>
+   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
+</a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight&langs_count=10&layout=compact">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=diegowsu&hide=php&theme=tokyonight&langs_count=10&layout=compact" />
-</a>
-	<a>
-   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
 </a>
 
 	
