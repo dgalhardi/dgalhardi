@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Diego Galhardi
 
 - 🔭 I’m currently working as Software Development Engineer
-- :mortar_board:  I’m currently learning Kotlin, AWS Lambda, DynamoDB, Serverless APIS/Databases/Containers, Hexagonal Architecture
+- :mortar_board:  I’m currently learning Kotlin, AWS Lambda/DynamoDB, Serverless APIS/Databases/Containers, Hexagonal Architecture
 
 
 
