@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Diego Galhardi
 
 - 🔭 I’m currently working as Software Development Engineer
-- :mortar_board:  I’m currently learning Kotlin, AWS Lambda/DynamoDB, ElasticSearch, Serverless APIS/Databases/Containers and Hexagonal Architecture
-
-
+- :mortar_board:  I’m currently learning Kotlin, Micronaut, gRPC, AWS Lambda/DynamoDB, ElasticSearch, Serverless APIS/Databases/Containers and Hexagonal Architecture
 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> 	  
