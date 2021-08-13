@@ -10,10 +10,11 @@
     </a>
 </p>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs">
+	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <img  align="justified" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs" />
 </a>	
 	<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="dgalhardi"><a class="LI-simple-link" href='https://br.linkedin.com/in/dgalhardi/pt-br?trk=profile-badge'>Diego Galhardi</a></div>
