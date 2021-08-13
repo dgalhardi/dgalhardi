@@ -14,6 +14,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs">
   <img  align="justified" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs" />
 </a>	
+	<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="dgalhardi"><a class="LI-simple-link" href='https://br.linkedin.com/in/dgalhardi/pt-br?trk=profile-badge'>Diego Galhardi</a></div>
 <a>
    <img align="justified" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
 </a>
