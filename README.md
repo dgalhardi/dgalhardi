@@ -10,6 +10,7 @@
     </a>
 </p>
 
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs">
   <img  align="justified" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs" />
@@ -17,10 +18,14 @@
 <a>
    <img align="justified" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
 </a>
+	
 
 
 	
 </div>
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldf07&layout=compact&count_private=true)
+
 
   
 
