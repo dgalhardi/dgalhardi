@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Diego Galhardi
 
-- 🔭 I’m currently working as Senior Software Engineer
+- 🔭 I'm a senior software engineer specialised in backend development
 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> 	  
@@ -16,24 +16,10 @@
   <img  align="justified" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs" />
 </a>	
 <a>
-   <img align="justified" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
-</a>
-	
-
-
-	
+   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />]
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegowsu&show_icons=true&locale=en&layout=compact" alt="diegowsu" />
+</a>	
 </div>
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldf07&layout=compact&count_private=true)
-
-
-  
-
-
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegowsu&show_icons=true&locale=en&layout=compact" alt="diegowsu" /></p>
--->
 
 <!--
 **diegowsu/diegowsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
