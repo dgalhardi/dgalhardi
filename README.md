@@ -16,8 +16,8 @@
   <img  align="justified" src="https://github-readme-stats.vercel.app/api?username=diegowsu&theme=slateorange&show_icons=true&hide=contribs" />
 </a>	
 <a>
-   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />]
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegowsu&show_icons=true&locale=en&layout=compact" alt="diegowsu" />
+   <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowsu&hide_border=true" />
+  <img align="justified" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegowsu&show_icons=true&locale=en&layout=compact" alt="diegowsu" />
 </a>	
 </div>
 
