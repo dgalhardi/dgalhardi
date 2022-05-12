@@ -21,7 +21,9 @@
 </div>
 
 📫 How to reach me: diegowsu@gmail.com <br>
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgalhardi/)
+[![Medium: VPA](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dgalhardi/)
 
 <!--
 **diegowsu/diegowsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
