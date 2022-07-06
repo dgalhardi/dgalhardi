@@ -4,7 +4,6 @@
 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> 	  
-        <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
 	<a href="https://github.com/diegowsu"><img src="https://img.shields.io/github/followers/diegowsu.svg?label=GitHub&style=flat-square&logo=github" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/dgalhardi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
     </a>
