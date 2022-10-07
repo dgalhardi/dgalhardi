@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Diego Galhardi
 
-- 🔭 I'm a senior software engineer specialised in backend development
+- 🔭 I'm a Tech Lead specialised in backend development
 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> 	  
