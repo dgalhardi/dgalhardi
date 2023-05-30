@@ -32,6 +32,9 @@
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgalhardi/)
 [![Medium: VPA](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dgalhardi/)
+[![Medium: VPA](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/diego-galhardi-rodrigues-costa/badges/)
+
+
 
 <!--
 **diegowsu/diegowsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
